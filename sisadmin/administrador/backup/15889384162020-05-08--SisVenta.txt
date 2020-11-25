@@ -1,0 +1,462 @@
+DROP TABLE apartados;
+
+;
+
+
+
+
+DROP TABLE banners;
+
+;
+
+
+
+
+DROP TABLE bitacora;
+
+;
+
+
+
+
+DROP TABLE bitacora_movimientos;
+
+;
+
+
+
+
+DROP TABLE blog;
+
+;
+
+
+
+
+DROP TABLE categoria_precio;
+
+;
+
+
+
+
+DROP TABLE categoria_precios_niveles;
+
+;
+
+
+
+
+DROP TABLE categorias;
+
+;
+
+
+
+
+DROP TABLE ciudad;
+
+;
+
+
+
+
+DROP TABLE cliente_devolucion;
+
+;
+
+
+
+
+DROP TABLE cliente_devolucion_detalle;
+
+;
+
+
+
+
+DROP TABLE cliente_monedero;
+
+;
+
+
+
+
+DROP TABLE clientes;
+
+;
+
+
+
+
+DROP TABLE compra_detalle;
+
+;
+
+
+
+
+DROP TABLE compras;
+
+;
+
+
+
+
+DROP TABLE compras_detalles_fact;
+
+;
+
+
+
+
+DROP TABLE configuracion;
+
+;
+
+
+
+
+DROP TABLE corte;
+
+;
+
+
+
+
+DROP TABLE cotizacion;
+
+;
+
+
+
+
+DROP TABLE credito;
+
+;
+
+
+
+
+DROP TABLE credito_detalle;
+
+;
+
+
+
+
+DROP TABLE descripcion_apartados;
+
+;
+
+
+
+
+DROP TABLE detalle_cotizacion;
+
+;
+
+
+
+
+DROP TABLE entradas;
+
+;
+
+
+
+
+DROP TABLE entradas_detalles;
+
+;
+
+
+
+
+DROP TABLE estado;
+
+;
+
+
+
+
+DROP TABLE etiqueta_detalle;
+
+;
+
+
+
+
+DROP TABLE etiquetas;
+
+;
+
+
+
+
+DROP TABLE gastos_categorias;
+
+;
+
+
+
+
+DROP TABLE gastos_detalles;
+
+;
+
+
+
+
+DROP TABLE guias;
+
+;
+
+
+
+
+DROP TABLE inventario;
+
+;
+
+
+
+
+DROP TABLE lealtad;
+
+;
+
+
+
+
+DROP TABLE modulos;
+
+;
+
+
+
+
+DROP TABLE modulos_menu;
+
+;
+
+
+
+
+DROP TABLE niveles;
+
+;
+
+
+
+
+DROP TABLE nota_descripcion;
+
+;
+
+
+
+
+DROP TABLE nota_entrega;
+
+;
+
+
+
+
+DROP TABLE nota_entrega_detalle;
+
+;
+
+
+
+
+DROP TABLE nota_remision;
+
+;
+
+
+
+
+DROP TABLE nota_remision_depositos;
+
+;
+
+
+
+
+DROP TABLE nota_remision_imgdepositos;
+
+;
+
+
+
+
+DROP TABLE pagos;
+
+;
+
+
+
+
+DROP TABLE pais;
+
+;
+
+
+
+
+DROP TABLE paquete_descuentos;
+
+;
+
+
+
+
+DROP TABLE paqueterias;
+
+;
+
+
+
+
+DROP TABLE perfiles;
+
+;
+
+
+
+
+DROP TABLE perfiles_permisos;
+
+;
+
+
+
+
+DROP TABLE preguntas;
+
+;
+
+
+
+
+DROP TABLE productos;
+
+;
+
+
+
+
+DROP TABLE productos_imagenes;
+
+;
+
+
+
+
+DROP TABLE proveedores;
+
+;
+
+
+
+
+DROP TABLE push_mensajes;
+
+;
+
+
+
+
+DROP TABLE push_registro;
+
+;
+
+
+
+
+DROP TABLE salidas;
+
+;
+
+
+
+
+DROP TABLE salidas_detalles;
+
+;
+
+
+
+
+DROP TABLE sobrepedido;
+
+;
+
+
+
+
+DROP TABLE sobrepedido_camp;
+
+;
+
+
+
+
+DROP TABLE sobrepedido_detalle;
+
+;
+
+
+
+
+DROP TABLE sobrepedidos_anticipos;
+
+;
+
+
+
+
+DROP TABLE subcategoria;
+
+;
+
+
+
+
+DROP TABLE sucursales;
+
+;
+
+
+
+
+DROP TABLE tallas;
+
+;
+
+
+
+
+DROP TABLE traspaso;
+
+;
+
+
+
+
+DROP TABLE traspaso_detalle;
+
+;
+
+
+
+
+DROP TABLE usuarios;
+
+;
+
+
+
+
