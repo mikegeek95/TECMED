@@ -1,0 +1,280 @@
+body {
+    background-image: url("../../images/01.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	max-height:100%;
+	max-width:100%;
+	
+}
+
+.formulario{
+	position: absolute;
+	background: #FFFFFF;
+	max-height: 480px;
+	max-width: 850px;
+	margin-top:70px;
+	margin-left: 300px;
+	text-align: center;	
+	padding-left: 0em;
+	padding-right: 0em;
+	width: 66%;
+    height: auto;
+}
+.imgArr{
+    /* background-image: url("../img/02.png"); */
+	background-size: cover;
+/* 	height: 480px; 
+	width: 565px; */
+	background-attachment: fixed;
+	background-position: center center;	
+	/* position: relative; */
+
+}
+
+.logoEnno{
+ 	background-image: url("../img/03.png");
+	background-size: contain;
+	max-height: 339px;	
+	height: 66%;
+	width: 65%;
+}
+
+H3{
+	color: #064e9a !important;
+	font-family:  FRANKLIN GOTHIC MEDIUM !important;
+	font-size: 40pt !important;	
+}
+input{
+	
+	font-family: CENTURY GOTHIC !important;
+	border-top:none !important;
+	border-left:none !important;
+	border-right:none !important;
+	border-radius: 5px 5px 5px 5px;
+	
+}
+.inputUsuario
+{
+    background-image: url('../../images/icons/01.png');
+    background-position: 1px center;
+    background-repeat: no-repeat;
+    padding:0 0 0 40px;
+    font-size: 14pt;
+}
+.inputPass
+{
+    background-image: url('../../images/icons/02.png');
+    background-position: 1px center;
+    background-repeat: no-repeat;
+    padding:0 0 0 40px;
+    font-size: 14pt;
+}
+.btn-inicio{
+	background-color: #064e9a;
+	color: #FFFFFF; 
+	height: 30px; 
+	width: 170px; 
+	font-size: 10pt; 
+	font-weight: bold;
+}
+.tamano-modal{
+	height: 180px; 
+	width: 300px
+}
+.modal-header{
+	color: #FFFFFF;
+}
+@media screen and (min-width:1400px){
+		
+	.formulario{
+		background-color: #FFF;
+		position: absolute;
+		max-width: 825px;
+		margin-top: 7%;
+		margin-right: 9%;
+		text-align: center;
+		padding-left: 0em;
+		padding-right: 0em;
+		width: 85%;
+		height: 480px;
+	}
+		.imgArr{
+   	    background-image: url("../../images/02.jpg");
+		background-size: cover;
+		width: 63%;
+		
+
+	}
+	.logoEnno{
+		background-image: url("../../images/03.png");
+		background-size: contain;
+		max-height: 60%;
+		max-width: 69%;
+		margin-top: 100px;
+		margin-left: 14%;
+		min-width: 235px;
+		height: 100%;
+
+	}
+	.cuerpo{
+	   margin-top: -57%;
+	   margin-left: 65%;
+	}
+		
+}
+@media screen and (max-width: 1400px) and (min-width:1013px){
+		
+	.formulario{
+		background-color: #FFF;
+		position: absolute;
+		max-width: 825px;
+		margin-top: 7%;
+		margin-left: 11%;
+		text-align: center;
+		padding-left: 0em;
+		padding-right: 0em;
+		width: 85%;
+		height: 480px;
+	}
+		.imgArr{
+   	    background-image: url("../../images/02.jpg");
+		background-size: cover;
+		width: 63%;
+		height: 480px;
+
+	}
+	.logoEnno{
+		background-image: url("../../images/03.png");
+		background-size: contain;
+		max-height: 60%;
+		max-width: 69%;
+		margin-left: 19%;
+		min-width: 235px;
+		height: 100%;
+
+	}
+	.cuerpo{
+	   margin-top: -57%;
+	   margin-left: 65%;
+	}
+		
+}
+@media screen and (max-width: 1013px) and (min-width:780px){
+	.formulario{
+		background-color: #FFF;
+		position: absolute;		
+		max-width: 780px;		
+		margin-top: 7%;
+		margin-left: 11%;
+		text-align: center;
+		padding-left: 0em;
+		padding-right: 0em;
+		width: 85%;
+		height: 480px;
+	}
+		.imgArr{
+   	    background-image: url("../../images/02.jpg");
+		background-size: cover;
+		width: 58%;
+		height: 480px;
+
+	}
+	.logoEnno{
+		background-image: url("../../images/03.png");
+		background-size: contain;
+		max-height: 48%;
+		max-width: 69%;
+		margin-left: 19%;
+		min-width: 235px;
+		height: 100%;
+
+	}
+	.cuerpo{
+	    margin-top: -67%;
+		margin-left: 58%;
+	}
+
+	H3{
+	color: #064e9a !important;
+	font-family:  FRANKLIN GOTHIC MEDIUM !important;
+	font-size: 35pt !important;	
+	}
+	
+}
+	
+	
+@media screen and (max-width:780px) and (min-width:480px){
+		.formulario{
+		background-color: #FFF;
+		position: absolute;		
+		max-width: 780px;
+		margin-top: 4%;
+		margin-left: 7%;
+		text-align: center;	
+		padding-left: 0em;
+		padding-right: 0em;
+		width: 85%;
+		max-height: 668px;
+	}
+		.imgArr{
+   	    background-image: url("../../images/02.jpg");
+		background-size: cover; 
+		width: 100%;
+		height: 220px;	
+
+	}
+	.logoEnno{
+		background-image: url("../../images/03.png");
+		background-size: contain;			
+		max-height: 100%;
+		max-width: 42%;
+		margin-left: 27%;
+		min-width: 235px;
+		height: 100%;
+
+	}
+
+	H3{
+	color: #064e9a !important;
+	font-family:  FRANKLIN GOTHIC MEDIUM !important;
+	font-size: 35pt !important;	
+	}
+}
+@media screen and (max-width:480px){
+	.formulario{
+		background-color: #FFF;
+		position: absolute;		
+		max-width: 480px;
+		margin-top: 2%;
+		margin-left: 7%;
+		text-align: center;	
+		padding-left: 0em;
+		padding-right: 0em;
+		width: 85%;
+		max-height: 900px;
+	}
+		.imgArr{
+   	    background-image: url("../../images/02.jpg");
+		background-size: cover; 
+		width: 100%;
+		background-attachment: fixed;
+		height: 220px;	
+
+	}
+	.logoEnno{
+		background-image: url("../../images/03.png");
+		background-size: contain;			
+		max-height: 100%;
+		max-width: 45%;
+		margin-top: 30px;
+		margin-left: 20%;
+		min-width: 170px;
+	}
+	H3{
+	color: #064e9a !important;
+	font-family:  FRANKLIN GOTHIC MEDIUM !important;
+	font-size: 35pt !important;	
+	}
+}
