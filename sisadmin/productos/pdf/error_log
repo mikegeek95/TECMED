@@ -1,0 +1,14 @@
+[26-Jul-2019 16:55:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 11:55:53 America/Mexico_City] PHP Notice:  Undefined variable: total_efectivo in /home/calzad10/public_html/sitio/pv/productos/pdf/reporteEntradas.php on line 274
+[26-Jul-2019 16:56:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 11:56:21 America/Mexico_City] PHP Notice:  Undefined variable: total_efectivo in /home/calzad10/public_html/sitio/pv/productos/pdf/reporteEntradas.php on line 274
+[26-Jul-2019 16:56:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/calzad10/public_html/sitio/pv/clases/class.Fechas.php on line 170
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/calzad10/public_html/sitio/pv/clases/class.Fechas.php on line 170
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/calzad10/public_html/sitio/pv/clases/class.Fechas.php on line 161
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/calzad10/public_html/sitio/pv/clases/class.Fechas.php on line 161
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home/calzad10/public_html/sitio/pv/clases/class.Fechas.php on line 151
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home/calzad10/public_html/sitio/pv/clases/class.Fechas.php on line 151
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined index:  in /home/calzad10/public_html/sitio/pv/productos/pdf/reporteSalida.php on line 176
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined variable: pago in /home/calzad10/public_html/sitio/pv/productos/pdf/reporteSalida.php on line 230
+[26-Jul-2019 11:56:36 America/Mexico_City] PHP Notice:  Undefined variable: total in /home/calzad10/public_html/sitio/pv/productos/pdf/reporteSalida.php on line 230

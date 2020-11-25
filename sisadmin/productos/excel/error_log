@@ -1,0 +1,12 @@
+[26-Jul-2019 16:56:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 16:56:53 UTC] PHP Notice:  Undefined variable: contadorP in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 155
+[26-Jul-2019 16:56:53 UTC] PHP Notice:  Undefined variable: contadorC in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 157
+[26-Jul-2019 19:25:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 19:25:14 UTC] PHP Notice:  Undefined variable: contadorP in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 155
+[26-Jul-2019 19:25:14 UTC] PHP Notice:  Undefined variable: contadorC in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 157
+[26-Jul-2019 19:28:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 19:28:42 UTC] PHP Notice:  Undefined variable: contadorP in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 155
+[26-Jul-2019 19:28:42 UTC] PHP Notice:  Undefined variable: contadorC in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 157
+[26-Jul-2019 20:14:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/calzad10/public_html/sitio/pv/clases/conexcion.php on line 16
+[26-Jul-2019 20:14:22 UTC] PHP Notice:  Undefined variable: contadorP in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 159
+[26-Jul-2019 20:14:22 UTC] PHP Notice:  Undefined variable: contadorC in /home/calzad10/public_html/sitio/pv/productos/excel/excelInventario.php on line 161
